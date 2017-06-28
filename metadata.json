@@ -1,0 +1,17 @@
+{
+  "name": "ephico2real-http",
+  "version": "0.1.0",
+  "author": "ephico2real",
+  "summary": "Installation of basic Apache httpd",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ephico2real/ephico2real-http.git",
+  "project_page": "https://github.com/ephico2real/ephico2real-http",
+  "issues_url": "https://github.com/ephico2real/ephico2real-http/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
