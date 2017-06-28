@@ -29,7 +29,7 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Author Name <ephico2rea5@gmail.com>
 #
 # === Copyright
 #
