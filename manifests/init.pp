@@ -35,7 +35,11 @@
 #
 # Copyright 2017 Your name here, unless otherwise noted.
 #
-class http {
+class http (
+      $http_port = 80
+)
 
+  {  
+  
   include http::install
 }
